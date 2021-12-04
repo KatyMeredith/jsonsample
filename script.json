@@ -1,0 +1,39 @@
+{
+    "companyName": "Bano",
+    "location": "Ottawa",
+    "employees": 234,
+    "specialty": "Bathroom Furniture",
+    "meetingExpectation": true,
+    "products": [
+      {
+        "item": "Kimbo Vanity",
+        "width": 48,
+        "furnitureType": "Vanity",
+        "colors": [
+          "grey",
+          "black",
+          "silver"
+        ]
+      },
+      {
+        "item": "Fracconni Faucet",
+        "width": 8,
+        "furnitureType": "Faucet",
+        "colors": [
+          "gold",
+          "white",
+          "silver"
+        ]
+      },
+      {
+        "item": "Lilina Shower",
+        "width": 36,
+        "furnitureType": "Shower",
+        "colors": [
+          "navy",
+          "gold",
+          "white"
+        ]
+      }
+    ]
+  }
